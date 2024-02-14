@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://create-react-app.d
 
 ### Prerequisites
 
-Make sure you have Node.js(optiona) and npm installed on your machine.
+Make sure you have Node.js(optional) and npm installed on your machine.
 
 ### Installation
 
