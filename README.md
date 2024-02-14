@@ -14,7 +14,7 @@ Make sure you have Node.js(optional) and npm installed on your machine.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/your-username/your-project.git](https://github.com/nkouki98/firebasereactapp.git
     ```
 
 2. Navigate to the project folder:
